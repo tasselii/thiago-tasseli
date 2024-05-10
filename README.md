@@ -23,3 +23,13 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-plain.svg" height="30" alt="git logo"  />
   <img width="8" />
 </div>
+
+</br>
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tasselii/tasselii/blob/output/github-contribution-grid-snake.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tasselii/tasselii/blob/output/github-contribution-grid-snake.gif">
+  <img alt="github contribution grid snake animation" src="https://github.com/tasselii/tasselii/blob/output/github-contribution-grid-snake.gif">
+</picture>
