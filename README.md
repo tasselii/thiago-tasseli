@@ -8,8 +8,8 @@
 
 <h3 align="left">Conecte-se comigo!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=0000CD&color:FFF)](mailto:tasselii.dev@outlook.com.br)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0000CD&color:FFF)](https://www.linkedin.com/in/thiago-tasseli-368590276/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=0000CD&color:FFF "target=_blank")](mailto:tasselii.dev@outlook.com.br)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0000CD&color:FFF "target=_blank")](https://www.linkedin.com/in/thiago-tasseli-368590276/)
 
 
 <h3 align="left">Minha Stack</h3>
