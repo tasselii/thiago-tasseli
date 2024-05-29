@@ -32,6 +32,6 @@
 
 <div>
   <a href="github.com/tasselii">
-    <img height="180"em src="https://github-readme-stats.vercel.app/api?username=tasselii&theme=transparent&show_icons=true"/>
-    <img height="180"em src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasselii&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+    <img height="160"em src="https://github-readme-stats.vercel.app/api?username=tasselii&theme=transparent&show_icons=true"/>
+    <img height="160"em src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasselii&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
       </div>
