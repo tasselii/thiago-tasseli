@@ -3,8 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0400CD&random=false&width=435&lines=Ol%C3%A1%2C+Eu+sou+o+Thiago+Tasseli!+!)](https://git.io/typing-svg)
 
 <p align="left">
-  Desenvolvedor Front-end apaixonado e dedicado, busco minha primeira experiência profissional para aplicar e expandir meus conhecimentos. Com sólida formação em HTML, CSS, JavaScript e Git, estou ansioso para contribuir para projetos inovadores e soluções tecnológicas eficientes. Proativo, comprometido e sempre disposto a aprender, acredito que minha paixão pela tecnologia e determinação em me tornar um desenvolvedor excepcional me tornarão um valioso ativo para qualquer equipe.
-</p>
+  Desenvolvedor em fase atual de estudos em Java Back-End. Apaixonado por resolver problemas complexos e sempre em busca de aprender novas tecnologias. Busco minha primeira experiência profissional para aplicar e expandir meus conhecimentos. Dê uma olhada e explore meu trabalho!
 
 <h3 align="left">Conecte-se comigo!</h3>
 
